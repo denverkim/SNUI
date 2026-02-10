@@ -1,4 +1,4 @@
-- DAY1 [합성곱 신경망 기초와 이미지 분류 모델 만들기](https://github.com/denverkim/SNUI/blob/main/DAY1%20%EB%94%A5%EB%9F%AC%EB%8B%9D_MNIST.pdf)
+- DAY1 [합성곱 신경망 기초와 이미지 분류 모델 만들기](https://github.com/denverkim/SNUI/blob/main/DAY1%20%EB%94%A5%EB%9F%AC%EB%8B%9D_MNIST.pdf) |  [LAB1](https://github.com/denverkim/SNUI/blob/main/SNU_DAY1.ipynb)
 - DAY2 [딥러닝 핵심 개념과 Fashion-MNIST 분류 실습](https://github.com/denverkim/SNUI/blob/main/DAY2%20%EB%94%A5%EB%9F%AC%EB%8B%9D_FASHION_MNIST.pdf)
 - DAY3 [CNN 모델 심화 및 CIFAR-10 분류 실습](https://github.com/denverkim/SNUI/blob/main/DAY3%20%EB%94%A5%EB%9F%AC%EB%8B%9D_CIFAR.pdf)
 - DAY4 [전이 학습 및 이미지 분류 실습](https://github.com/denverkim/SNUI/blob/main/DAY4%20%EB%94%A5%EB%9F%AC%EB%8B%9D_TRANSFER_MODEL.pdf)
