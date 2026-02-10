@@ -2,4 +2,4 @@
 - DAY2 [딥러닝 핵심 개념과 Fashion-MNIST 분류 실습](https://github.com/denverkim/SNUI/blob/main/DAY2%20%EB%94%A5%EB%9F%AC%EB%8B%9D_FASHION_MNIST.pdf)
 - DAY3 [CNN 모델 심화 및 CIFAR-10 분류 실습](https://github.com/denverkim/SNUI/blob/main/DAY3%20%EB%94%A5%EB%9F%AC%EB%8B%9D_CIFAR.pdf)
 - DAY4 [전이 학습 및 이미지 분류 실습](https://github.com/denverkim/SNUI/blob/main/DAY4%20%EB%94%A5%EB%9F%AC%EB%8B%9D_TRANSFER_MODEL.pdf)
-- DAY5 자연어처리(NLP) 및 감성 분석 실습
+- DAY5 [자연어처리(NLP) 및 감성 분석 실습](https://github.com/denverkim/SNUI/blob/main/DAY5%20%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC.pdf)
